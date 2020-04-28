@@ -14,6 +14,8 @@ pip install -r requirements.txt
 
 # Instructions
 
+The current code supports the calculation of decomposed variance metrics from standard evaluation numbers.
+
 1. Download the [NLI datasets](https://drive.google.com/file/d/1PbODxp4uEsZR_pYOKJSu96xB8rwsdklv/view?usp=sharing) and put it under the  `nli_data` folder in the root directory
 
 2. Organize the evaluation result of your model under the `models` directly in the same way as the `berts` (an example folder showing the result of BERT-base) folder, name of the folder representing the model type
@@ -32,4 +34,4 @@ pip install -r requirements.txt
 
    
 
-Other scripts and model checkpoints that is used in the paper will come soon.
+Other scripts (training/evaluation/analysis) and model checkpoints that are used in the paper will come soon.
