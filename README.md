@@ -29,7 +29,7 @@ The current code supports the calculation of decomposed variance metrics from st
 3. Run the evaluation scripts by 
 
    ```
-   python report.py MODEL_PATH
+   python variance_report.py MODEL_PATH
    ```
 
    
