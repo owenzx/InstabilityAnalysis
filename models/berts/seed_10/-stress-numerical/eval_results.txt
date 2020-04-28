@@ -1,0 +1,1 @@
+acc_stress-numerical = 0.3701948393891522

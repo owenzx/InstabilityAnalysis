@@ -1,0 +1,1 @@
+acc_stress-negation = 0.5538461538461539

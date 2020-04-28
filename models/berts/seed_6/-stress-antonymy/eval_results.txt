@@ -1,0 +1,1 @@
+acc_stress-antonymy = 0.6457399103139013

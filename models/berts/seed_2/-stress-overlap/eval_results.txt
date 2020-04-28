@@ -1,0 +1,1 @@
+acc_stress-overlap = 0.5847172694854814
