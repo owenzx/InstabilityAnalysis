@@ -2,7 +2,7 @@
 
 This is the official repo for the following paper
 
-* The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions, Xiang Zhou, Yixin Nie, Hao Tan and Mohit Bansal ([arxiv](https://arxiv.org/abs/2004.13606))
+* The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions, Xiang Zhou, Yixin Nie, Hao Tan and Mohit Bansal, EMNLP 2020 ([arxiv](https://arxiv.org/abs/2004.13606))
 
 # Dependencies
 
